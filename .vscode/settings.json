@@ -1,0 +1,6 @@
+{
+  "cSpell.words": ["anonymised", "dtos", "fundraise"],
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  }
+}

@@ -1,0 +1,4 @@
+.env
+resume-token.text
+/dist
+/node_modules
